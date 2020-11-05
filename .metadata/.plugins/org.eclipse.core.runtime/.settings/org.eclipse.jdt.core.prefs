@@ -1,4 +1,5 @@
 eclipse.preferences.version=1
+org.eclipse.jdt.core.classpathVariable.M2_REPO=/home/dev/.m2/repository
 org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
 org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
 org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.8
@@ -355,3 +356,4 @@ org.eclipse.jdt.core.formatter.wrap_before_relational_operator=true
 org.eclipse.jdt.core.formatter.wrap_before_shift_operator=true
 org.eclipse.jdt.core.formatter.wrap_before_string_concatenation=true
 org.eclipse.jdt.core.formatter.wrap_outer_expressions_when_nested=true
+org.eclipse.jdt.core.timeoutForParameterNameFromAttachedJavadoc=50
