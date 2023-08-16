@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="org.bouncycastle.crypto.RuntimeCryptoException"/>
-<fullyQualifiedTypeName name="java.util.TreeSet"/>
-<fullyQualifiedTypeName name="org.apache.hadoop.hive.ql.optimizer.SharedWorkOptimizer.BaseSharedWorkOptimizer.IsSameComparator"/>
-<fullyQualifiedTypeName name="java.util.Comparator"/>
-<fullyQualifiedTypeName name="org.apache.hadoop.hive.ql.plan.ExprNodeDesc"/>
-<fullyQualifiedTypeName name="org.apache.hadoop.hive.ql.parse.HiveParser.foreignKeyConstraint_return"/>
-<fullyQualifiedTypeName name="java.lang.RuntimeException"/>
-<fullyQualifiedTypeName name="org.apache.hadoop.hive.ql.plan.JoinDesc"/>
-<fullyQualifiedTypeName name="org.apache.hadoop.hive.ql.optimizer.OperatorGraph"/>
-<fullyQualifiedTypeName name="org.apache.hadoop.hive.ql.exec.TableScanOperator"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
-<fullyQualifiedTypeName name="org.apache.hadoop.hive.ql.plan.ExprNodeGenericFuncDesc"/>
-<fullyQualifiedTypeName name="org.apache.commons.compress.utils.Lists"/>
-<fullyQualifiedTypeName name="org.apache.hadoop.hive.ql.plan.ExprNodeConstantDesc"/>
-<fullyQualifiedTypeName name="com.google.common.collect.Lists"/>
-<fullyQualifiedTypeName name="java.lang.Object"/>
-<fullyQualifiedTypeName name="it.unimi.dsi.fastutil.objects.Object2ObjectSortedMap"/>
-<fullyQualifiedTypeName name="java.util.Objects"/>
-<fullyQualifiedTypeName name="java.util.HashSet"/>
-<fullyQualifiedTypeName name="org.apache.hadoop.hive.metastore.api.ThriftHiveMetastore.AsyncProcessor.map_schema_version_to_serde"/>
-<fullyQualifiedTypeName name="java.lang.IllegalAccessError"/>
-<fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+    <fullyQualifiedTypeName name="org.bouncycastle.crypto.RuntimeCryptoException"/>
+    <fullyQualifiedTypeName name="java.util.TreeSet"/>
+    <fullyQualifiedTypeName name="org.apache.hadoop.hive.ql.optimizer.SharedWorkOptimizer.BaseSharedWorkOptimizer.IsSameComparator"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
+    <fullyQualifiedTypeName name="org.apache.hadoop.hive.ql.plan.ExprNodeDesc"/>
+    <fullyQualifiedTypeName name="org.apache.hadoop.hive.ql.parse.HiveParser.foreignKeyConstraint_return"/>
+    <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+    <fullyQualifiedTypeName name="org.apache.hadoop.hive.ql.plan.JoinDesc"/>
+    <fullyQualifiedTypeName name="org.apache.hadoop.hive.ql.optimizer.OperatorGraph"/>
+    <fullyQualifiedTypeName name="org.apache.hadoop.hive.ql.exec.TableScanOperator"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="org.apache.hadoop.hive.ql.plan.ExprNodeGenericFuncDesc"/>
+    <fullyQualifiedTypeName name="org.apache.commons.compress.utils.Lists"/>
+    <fullyQualifiedTypeName name="org.apache.hadoop.hive.ql.plan.ExprNodeConstantDesc"/>
+    <fullyQualifiedTypeName name="com.google.common.collect.Lists"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="it.unimi.dsi.fastutil.objects.Object2ObjectSortedMap"/>
+    <fullyQualifiedTypeName name="java.util.Objects"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="org.apache.hadoop.hive.metastore.api.ThriftHiveMetastore.AsyncProcessor.map_schema_version_to_serde"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalAccessError"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
 </qualifiedTypeNameHistroy>
