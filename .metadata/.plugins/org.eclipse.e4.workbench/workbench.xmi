@@ -828,7 +828,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_vu4YKzhEEe6WTs7zoG2C2w" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_GkaV4Dw5Ee66BbAkX74akQ" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_vu5p-jhEEe6WTs7zoG2C2w"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_ljZcoFOdEe6qGu6m8Im9MA" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_vu5p-jhEEe6WTs7zoG2C2w"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_vu4YODhEEe6WTs7zoG2C2w" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -880,7 +880,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_vu4YhDhEEe6WTs7zoG2C2w" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_GkbkBTw5Ee66BbAkX74akQ" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" enabled="false" type="Check" command="_vu5pnThEEe6WTs7zoG2C2w"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_ljbR0lOdEe6qGu6m8Im9MA" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" enabled="false" type="Check" command="_vu5pnThEEe6WTs7zoG2C2w"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_vu4YjzhEEe6WTs7zoG2C2w" elementId="org.eclipse.jdt.ui.ClassFileEditorNoSource" visible="false">
         <tags>Draggable</tags>
@@ -1234,6 +1234,7 @@
     <bindings xmi:id="_vu4ZsThEEe6WTs7zoG2C2w" keySequence="ALT+SHIFT+R" command="_vu5ohzhEEe6WTs7zoG2C2w"/>
     <bindings xmi:id="_vu4ZsjhEEe6WTs7zoG2C2w" keySequence="CTRL+SHIFT+'" command="_vu6MkDhEEe6WTs7zoG2C2w"/>
     <bindings xmi:id="_vu4ZszhEEe6WTs7zoG2C2w" keySequence="CTRL+2 T" command="_vu6MjDhEEe6WTs7zoG2C2w"/>
+    <bindings xmi:id="_lbSpgFOdEe6qGu6m8Im9MA" keySequence="ALT+CTRL+C" command="_vu6MNThEEe6WTs7zoG2C2w"/>
   </bindingTables>
   <bindingTables xmi:id="_vu4ZtDhEEe6WTs7zoG2C2w" elementId="org.eclipse.core.runtime.xml" bindingContext="_vu4agzhEEe6WTs7zoG2C2w">
     <bindings xmi:id="_vu4ZtThEEe6WTs7zoG2C2w" keySequence="CTRL+SHIFT+P" command="_vu5pxjhEEe6WTs7zoG2C2w"/>
@@ -1967,6 +1968,18 @@
     <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.tm.terminal.view.ui"/>
     <tags>View</tags>
     <tags>categoryTag:Other</tags>
+  </descriptors>
+  <descriptors xmi:id="_liW60FOdEe6qGu6m8Im9MA" elementId="net.sf.eclipsecs.ui.stats.views.MarkerStatsView" label="Checkstyle violations" iconURI="platform:/plugin/net.sf.eclipsecs.ui/icons/listingView.gif" tooltip="" category="Checkstyle" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <persistedState key="originalCompatibilityViewClass" value="net.sf.eclipsecs.ui.stats.views.MarkerStatsView"/>
+    <persistedState key="originalCompatibilityViewBundle" value="net.sf.eclipsecs.ui"/>
+    <tags>View</tags>
+    <tags>categoryTag:Checkstyle</tags>
+  </descriptors>
+  <descriptors xmi:id="_liXh4FOdEe6qGu6m8Im9MA" elementId="net.sf.eclipsecs.ui.stats.views.GraphStatsView" label="Checkstyle violations chart" iconURI="platform:/plugin/net.sf.eclipsecs.ui/icons/graphView.gif" tooltip="" category="Checkstyle" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <persistedState key="originalCompatibilityViewClass" value="net.sf.eclipsecs.ui.stats.views.GraphStatsView"/>
+    <persistedState key="originalCompatibilityViewBundle" value="net.sf.eclipsecs.ui"/>
+    <tags>View</tags>
+    <tags>categoryTag:Checkstyle</tags>
   </descriptors>
   <trimContributions xmi:id="_2r10UF9tEeO-yojH_y4TJA" elementId="org.eclipse.ui.ide.application.trimcontribution.QuickAccess" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" toBeRendered="false" parentId="org.eclipse.ui.main.toolbar" positionInParent="last">
     <children xsi:type="menu:ToolControl" xmi:id="_76uUAF9tEeO-yojH_y4TJA" elementId="Spacer Glue" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">

@@ -1,5 +1,5 @@
 eclipse.preferences.version=1
-org.eclipse.jdt.core.classpathVariable.JRE_LIB=/usr/lib/jvm/zulu11/lib/jrt-fs.jar
+org.eclipse.jdt.core.classpathVariable.JRE_LIB=/usr/lib/jvm/zulu11-ca-amd64/lib/jrt-fs.jar
 org.eclipse.jdt.core.classpathVariable.JRE_SRC=
 org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
 org.eclipse.jdt.core.classpathVariable.M2_REPO=/home/dev/.m2/repository
